@@ -20,7 +20,7 @@ const Hero = () => {
           <p className=" mx-auto text-sm font-primary text-gray-100">
             Welcome To My Portfolio
           </p>
-          <h1 className="text-2xl md:text-5xl font-bold mb-3 font-primary leading-snug md:leading-tight">
+          <h1 className="text-3xl md:text-5xl font-bold mb-3 font-primary leading-snug md:leading-tight">
             I'm Md. Rubel Hossain
           </h1>
           <p className=" max-w-[900px] text-sm md:text-lg mx-auto  mb-4 font-primary text-gray-300">
