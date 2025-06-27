@@ -1,7 +1,7 @@
 import React from "react";
 import Hero from "./Hero";
 import Projects from "../projects/Projects";
-import Skills from "../skills/skills";
+import Skills from "../skills/Skills";
 import Contact from "../contact/Contact";
 
 const Home = () => (
