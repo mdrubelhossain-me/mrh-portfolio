@@ -50,7 +50,7 @@ const skills = [
 
 const Skills = () => (
   <div>
-    <h2 className="text-2xl font-bold mb-2 font-primary text-center">Skills</h2>
+    <h2 className="text-3xl font-bold mb-2 font-primary text-center">Skills</h2>
     <h3 className="text-lg font-semibold mb-1 font-primary text-center text-gray-600">My Technical Proficiencies</h3>
     <p className="text-gray-500 mb-8 font-primary text-center">
       Technologies I use to build modern web applications
