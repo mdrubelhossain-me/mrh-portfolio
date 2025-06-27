@@ -23,7 +23,7 @@ const Hero = () => {
           <h1 className="text-4xl md:text-5xl font-bold mb-3 font-primary leading-snug md:leading-tight">
             I'm Md. Rubel Hossain
           </h1>
-          <p className=" max-w-[900px] text-lg mx-auto md:text-md mb-4 font-primary text-gray-300">
+          <p className=" max-w-[900px] text-sm md:text-lg mx-auto  mb-4 font-primary text-gray-300">
             {" "}
             an energetic, self-motivated, passionate Front-end Developer. I have
             over 2 years of experience in HTML, CSS, Bootstrap, Tailwind CSS and
@@ -32,7 +32,7 @@ const Hero = () => {
             design is very unique and very smart. I hope every client will be
             satisfied after seeing my work and appreciate it.
           </p>
-          <p className="text-lg mx-auto md:text-md mb-7 font-primary text-gray-100">
+          <p className="text-md mx-auto md:text-lg mb-7 font-primary text-gray-100">
             Please, don't hesitate to get in touch with me!
           </p>
 
