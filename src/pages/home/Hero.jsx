@@ -37,16 +37,16 @@ const Hero = () => {
           </p>
 
           {/* Button */}
-         <div>
-  <a
-    href="../../../src/assets/CV of Md. Rubel Hossain.pdf"
-    target="_blank"
-    rel="noopener noreferrer"
-    className="bg-transparent border text-white px-4 py-2 rounded-md shadow-md hover:bg-primary hover:shadow-lg hover:border-primary transition duration-300 ease-in-out"
-  >
-    Download CV
-  </a>
-</div>
+          <div>
+            <a
+              href="../../../public/CV of Md. Rubel Hossain.pdf"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="bg-transparent border text-white px-4 py-2 rounded-md shadow-md hover:bg-primary hover:shadow-lg hover:border-primary transition duration-300 ease-in-out"
+            >
+              Download CV
+            </a>
+          </div>
         </div>
       </div>
     </div>
