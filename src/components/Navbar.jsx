@@ -101,8 +101,9 @@ const Navbar = () => {
 
           {/* Right Menu - Desktop */}
           <ul className="hidden md:flex gap-6 text-sm items-center font-primary">
-            <li className="hover:text-gray-300 bg-primary text-white px-4 py-2 rounded-md">
+            <li>
               <a
+               className="bg-primary border border-primary transition duration-200 hover:border-white hover:bg-transparent text-white px-4 py-2 rounded-md"
                 href="#contact"
                 onClick={(e) => handleAnchorClick(e, "contact")}
               >
