@@ -17,7 +17,7 @@ const Hero = () => {
       {/* Centered Content */}
       <div className="relative z-10 flex items-center justify-center h-full text-center text-white px-4">
         <div className="mt-0  lg:mt-4 2xl:mt-0">
-          <p className=" mx-auto text-sm font-primary text-gray-100">
+          <p className=" mx-auto text-sm font-primary text-gray-100 mb-2">
             Welcome To My Portfolio
           </p>
           <h1 className="text-3xl md:text-5xl font-bold mb-3 font-primary leading-snug md:leading-tight">
@@ -27,7 +27,8 @@ const Hero = () => {
             {" "}
             an energetic, self-motivated, passionate Front-end Developer. I have
             over 2 years of experience in HTML, CSS, Bootstrap, Tailwind CSS and
-            JavaScript. I have also knowledge about React.js and Next.js. I work
+            JavaScript. I have practical knowledge of React.js and Next.js and
+            specialize in building responsive, component-based designs. I work
             efficiently and offer a hundred percent satisfaction guarantee. My
             design is very unique and very smart. I hope every client will be
             satisfied after seeing my work and appreciate it.
