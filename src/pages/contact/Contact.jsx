@@ -37,7 +37,7 @@ const Contact = () => {
       );
   };
   return (
-    <div>
+    <div className="mb-20">
       <h2 className="text-3xl font-bold mb-2 text-center font-primary">
         Get in touch
       </h2>

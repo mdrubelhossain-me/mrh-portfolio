@@ -1,10 +1,10 @@
 import React, { useState, useEffect } from "react";
 import {
-  ListBullets as Menu,
-  X,
-  CaretDownIcon,
-  House,
-} from "@phosphor-icons/react";
+  FaBars as Menu,
+  FaTimes as X,
+  FaChevronDown as CaretDownIcon,
+  FaHome as House,
+} from "react-icons/fa";
 import { Link } from "react-router-dom";
 
 const Navbar = () => {
@@ -103,7 +103,7 @@ const Navbar = () => {
           <ul className="hidden md:flex gap-6 text-sm items-center font-primary">
             <li>
               <a
-               className="bg-primary border border-primary transition duration-200 hover:border-white hover:bg-transparent text-white px-4 py-2 rounded-md"
+                className="bg-primary border border-primary transition duration-200 hover:border-white hover:bg-transparent text-white px-4 py-2 rounded-md"
                 href="#contact"
                 onClick={(e) => handleAnchorClick(e, "contact")}
               >
