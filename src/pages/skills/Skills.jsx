@@ -29,7 +29,7 @@ const skills = [
     name: "React.js",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
   },
-  { name: "Redux Toolkit", icon: "https://redux-toolkit.js.org/img/redux.svg" },
+  // { name: "Redux Toolkit", icon: "https://redux-toolkit.js.org/img/redux.svg" },
   {
     name: "Context API",
     icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
