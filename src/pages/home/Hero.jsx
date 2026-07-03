@@ -26,7 +26,7 @@ const Hero = () => {
           <p className=" max-w-[900px] text-sm md:text-lg mx-auto  mb-4 font-primary text-gray-300">
             {" "}
             an energetic, self-motivated, passionate Front-end Developer. I have
-            over 2 years of experience in HTML, CSS, Bootstrap, Tailwind CSS and
+            over 3 years of experience in HTML, CSS, Bootstrap, Tailwind CSS and
             JavaScript. I have practical knowledge of React.js and Next.js and
             specialize in building responsive, component-based designs. I work
             efficiently and offer a hundred percent satisfaction guarantee. My
