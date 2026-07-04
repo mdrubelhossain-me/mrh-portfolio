@@ -6,7 +6,7 @@ const Footer = () => (
     <div className="flex flex-col md:flex-row justify-center items-center gap-4 text-gray-400 py-3">
       <div className="flex items-center gap-2">
         <FaEnvelope size={15} />
-        <p className="text-sm font-primary">mdrubelhossain659@gmail.com</p>
+       <!-- <p className="text-sm font-primary">mdrubelhossain659@gmail.com</p> -->
       </div>
 
       {/* Divider */}
@@ -14,9 +14,9 @@ const Footer = () => (
 
       <div className="flex items-center gap-2">
         <FaPhoneAlt size={15} />
-        <p className="text-sm font-primary">
+         <!-- <p className="text-sm font-primary">
           <span className="font-bold">+880</span> 1784539734
-        </p>
+        </p> -->
       </div>
     </div>
 
