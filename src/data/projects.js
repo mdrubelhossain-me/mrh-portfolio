@@ -1,4 +1,5 @@
 import edustack from "../assets/images/edustack.png";
+import sp from "../assets/images/sp.png";
 import foodieApp from "../assets/images/foodie-app.png";
 import ShopCart from "../assets/images/shopCart.png";
 import TourTravel from "../assets/images/tourtravels.png";
@@ -17,7 +18,7 @@ const projects = [
     tools: "HTML, SCSS, TypeScript, React.js and Next.js",
   },
     {
-    image: ,
+    image: sp,
     name: "Single Product Landing",
     description: "Ecommerce- Single Product Landing Page",
     live: "https://mrh-single-product-landing.netlify.app/",
