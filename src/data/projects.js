@@ -17,6 +17,13 @@ const projects = [
     tools: "HTML, SCSS, TypeScript, React.js and Next.js",
   },
     {
+    image: ,
+    name: "Single Product Landing",
+    description: "Ecommerce- Single Product Landing Page",
+    live: "https://mrh-single-product-landing.netlify.app/",
+    tools: "HTML, CSS, Bootstrap and JavaScript",
+  },
+    {
     image: ShopCart,
     name: "ShopCart",
     description: "Ecommerce Website",
